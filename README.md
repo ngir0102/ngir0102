@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Augustin Ngir Chorei, a BCA graduate passionate about Data Science, Data Analytics, and Machine Learning.
+
+I'm currently building my skills in Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Machine Learning. I enjoy working with data, finding meaningful insights, and building practical projects.
+
+I'm continuously learning, experimenting, and building projects to grow as a Data Professional.
 
 <!--
 **ngir0102/ngir0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
